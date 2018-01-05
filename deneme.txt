@@ -2,3 +2,4 @@ def topla(x,y):
   return x+y
 topla()
 def carpma():
+return x*y
